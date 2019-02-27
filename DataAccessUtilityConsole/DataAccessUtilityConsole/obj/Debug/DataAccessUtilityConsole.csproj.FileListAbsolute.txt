@@ -1,0 +1,8 @@
+E:\Git-Repos\DataAccessUtility\DataAccessUtilityConsole\DataAccessUtilityConsole\bin\Debug\DataAccessUtilityConsole.exe.config
+E:\Git-Repos\DataAccessUtility\DataAccessUtilityConsole\DataAccessUtilityConsole\bin\Debug\DataAccessUtilityConsole.exe
+E:\Git-Repos\DataAccessUtility\DataAccessUtilityConsole\DataAccessUtilityConsole\bin\Debug\DataAccessUtilityConsole.pdb
+E:\Git-Repos\DataAccessUtility\DataAccessUtilityConsole\DataAccessUtilityConsole\bin\Debug\DataAccessUtility.dll
+E:\Git-Repos\DataAccessUtility\DataAccessUtilityConsole\DataAccessUtilityConsole\bin\Debug\DataAccessUtility.pdb
+E:\Git-Repos\DataAccessUtility\DataAccessUtilityConsole\DataAccessUtilityConsole\obj\Debug\DataAccessUtilityConsole.csprojResolveAssemblyReference.cache
+E:\Git-Repos\DataAccessUtility\DataAccessUtilityConsole\DataAccessUtilityConsole\obj\Debug\DataAccessUtilityConsole.exe
+E:\Git-Repos\DataAccessUtility\DataAccessUtilityConsole\DataAccessUtilityConsole\obj\Debug\DataAccessUtilityConsole.pdb

@@ -1,0 +1,5 @@
+E:\Git-Repos\DataAccessUtility\DataAccessUtility\DataAccessUtility\bin\Debug\DataAccessUtility.dll
+E:\Git-Repos\DataAccessUtility\DataAccessUtility\DataAccessUtility\bin\Debug\DataAccessUtility.pdb
+E:\Git-Repos\DataAccessUtility\DataAccessUtility\DataAccessUtility\obj\Debug\DataAccessUtility.csprojResolveAssemblyReference.cache
+E:\Git-Repos\DataAccessUtility\DataAccessUtility\DataAccessUtility\obj\Debug\DataAccessUtility.dll
+E:\Git-Repos\DataAccessUtility\DataAccessUtility\DataAccessUtility\obj\Debug\DataAccessUtility.pdb
