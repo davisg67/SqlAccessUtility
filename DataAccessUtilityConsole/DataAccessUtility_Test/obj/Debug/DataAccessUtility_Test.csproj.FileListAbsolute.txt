@@ -1,0 +1,11 @@
+E:\Git-Repos\DataAccessUtility\DataAccessUtilityConsole\DataAccessUtility_Test\bin\Debug\DataAccessUtility_Test.dll
+E:\Git-Repos\DataAccessUtility\DataAccessUtilityConsole\DataAccessUtility_Test\bin\Debug\DataAccessUtility_Test.pdb
+E:\Git-Repos\DataAccessUtility\DataAccessUtilityConsole\DataAccessUtility_Test\bin\Debug\DataAccessUtilityConsole.exe
+E:\Git-Repos\DataAccessUtility\DataAccessUtilityConsole\DataAccessUtility_Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Git-Repos\DataAccessUtility\DataAccessUtilityConsole\DataAccessUtility_Test\bin\Debug\DataAccessUtility.dll
+E:\Git-Repos\DataAccessUtility\DataAccessUtilityConsole\DataAccessUtility_Test\bin\Debug\DataAccessUtilityConsole.pdb
+E:\Git-Repos\DataAccessUtility\DataAccessUtilityConsole\DataAccessUtility_Test\bin\Debug\DataAccessUtility.pdb
+E:\Git-Repos\DataAccessUtility\DataAccessUtilityConsole\DataAccessUtility_Test\obj\Debug\DataAccessUtility_Test.csprojResolveAssemblyReference.cache
+E:\Git-Repos\DataAccessUtility\DataAccessUtilityConsole\DataAccessUtility_Test\obj\Debug\DataAccessUtility_Test.dll
+E:\Git-Repos\DataAccessUtility\DataAccessUtilityConsole\DataAccessUtility_Test\obj\Debug\DataAccessUtility_Test.pdb
+E:\Git-Repos\DataAccessUtility\DataAccessUtilityConsole\DataAccessUtility_Test\bin\Debug\DataAccessUtility_Test.dll.config

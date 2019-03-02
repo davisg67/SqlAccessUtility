@@ -6,3 +6,4 @@ E:\Git-Repos\DataAccessUtility\DataAccessUtilityConsole\DataAccessUtilityConsole
 E:\Git-Repos\DataAccessUtility\DataAccessUtilityConsole\DataAccessUtilityConsole\obj\Debug\DataAccessUtilityConsole.csprojResolveAssemblyReference.cache
 E:\Git-Repos\DataAccessUtility\DataAccessUtilityConsole\DataAccessUtilityConsole\obj\Debug\DataAccessUtilityConsole.exe
 E:\Git-Repos\DataAccessUtility\DataAccessUtilityConsole\DataAccessUtilityConsole\obj\Debug\DataAccessUtilityConsole.pdb
+E:\Git-Repos\DataAccessUtility\DataAccessUtilityConsole\DataAccessUtilityConsole\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
